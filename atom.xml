@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>StarryKwai</title>
+  <icon>https://edgeneko.aiursoft.cn/img/favicon.png</icon>
+  <subtitle>记录写下的文字</subtitle>
+  <link href="https://edgeneko.aiursoft.cn/atom.xml" rel="self"/>
+  
+  <link href="https://edgeneko.aiursoft.cn/"/>
+  <updated>2024-01-20T12:18:25.476Z</updated>
+  <id>https://edgeneko.aiursoft.cn/</id>
+  
+  <author>
+    <name>季星笺</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>欢迎光临星空葵</title>
+    <link href="https://edgeneko.aiursoft.cn/2024/01/20/TestPost/TestPost/"/>
+    <id>https://edgeneko.aiursoft.cn/2024/01/20/TestPost/TestPost/</id>
+    <published>2024-01-20T12:05:39.000Z</published>
+    <updated>2024-01-20T12:18:25.476Z</updated>
+    
+    <content type="html"><![CDATA[<p>你好呀，这里是锦葵未燃，也是季星笺。</p><p>23年年末，我产生了建立了一个自己网站的念头，想要通过这个网站来记录自己写下的文字。在还有这个念头的24年年初，完全不懂这些的我很幸运遇上了EdgeNeko，在他的帮助下，这个网站终于诞生，我将这个网站命名为「星空葵」。</p><p>其实星空葵这个名字来的超级简单粗暴，就是StarryKwai的直接翻译，但是觉得还不错，好像带着网名「锦葵未燃」和笔名「季星笺」的一点点含义，就直接采用了。同时，我也决定将「StarryKwai」和「星空葵」两个名字拿来指代我的文学类写作，希望自己可以在写作这坚持了很久的事情上还能坚持写下去，把生活和故事记录下来，留给未来的自己回忆。</p><p>最后，真的非常感谢EdgeNeko的大力援助（我真的超级菜），也感谢加减乘除的帮助！也感谢愿意阅读我的文章的朋友们，大家的鼓励支持是我前进动力之一，真的感谢！</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;你好呀，这里是锦葵未燃，也是季星笺。&lt;/p&gt;
+&lt;p&gt;23年年末，我产生了建立了一个自己网站的念头，想要通过这个网站来记录自己写下的文字。在还有这个念头的24年年初，完全不懂这些的我很幸运遇上了EdgeNeko，在他的帮助下，这个网站终于诞生，我将这个网站命名为「星空葵」。&lt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
