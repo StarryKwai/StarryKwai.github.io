@@ -507,13 +507,6 @@
   </url>
   
   <url>
-    <loc>https://edgeneko.aiursoft.cn/tags/%E8%AF%97/</loc>
-    <lastmod>2024-03-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://edgeneko.aiursoft.cn/tags/%E6%80%9D%E8%80%83/</loc>
     <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -522,6 +515,13 @@
   
   <url>
     <loc>https://edgeneko.aiursoft.cn/tags/%E9%98%85%E8%AF%BB/</loc>
+    <lastmod>2024-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://edgeneko.aiursoft.cn/tags/%E8%AF%97/</loc>
     <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -563,7 +563,7 @@
   </url>
   
   <url>
-    <loc>https://edgeneko.aiursoft.cn/tags/%E6%97%85%E6%B8%B8/</loc>
+    <loc>https://edgeneko.aiursoft.cn/tags/%E6%98%9F%E6%98%9F/</loc>
     <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -584,7 +584,7 @@
   </url>
   
   <url>
-    <loc>https://edgeneko.aiursoft.cn/tags/%E6%98%9F%E6%98%9F/</loc>
+    <loc>https://edgeneko.aiursoft.cn/tags/%E6%97%85%E6%B8%B8/</loc>
     <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
