@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://edgeneko.aiursoft.cn/2025/02/18/%E5%85%AD%E6%A5%BC/</loc>
+    <loc>https://edgeneko.aiursoft.cn/2025/02/18/%E5%85%AD%E6%A5%BC/%E5%85%AD%E6%A5%BC/</loc>
+    
+    <lastmod>2025-02-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://edgeneko.aiursoft.cn/()</loc>
     
     <lastmod>2025-02-17</lastmod>
     
